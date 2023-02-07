@@ -7,7 +7,7 @@ count = true;
       count=false;
   }
 
-  for (let i = 2; j <= num/2; i++)
+  for (let i = 2; i <= num/2; i++)
   {
     if (num % i == 0) {
       count = false;
